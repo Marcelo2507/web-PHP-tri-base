@@ -1,0 +1,10 @@
+.bnt_confirmar{
+	width: 100%;
+	padding: 10px 0;
+	border:none;
+	border-radius: 10px;
+	color:white;
+	font-weight: bold;
+	font-size:20px;
+	background: #0FC2C0;
+}
